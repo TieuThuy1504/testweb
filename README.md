@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doanh Nghiệp Rèn cơ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #0073e6;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Chào mừng đến với Doanh Nghiệp Rèn cơ</h1>
+    </header>
+    <nav>
+        <a href="#gioithieu">Giới thiệu</a>
+        <a href="#dichvu">Dịch vụ</a>
+        <a href="#lienhe">Liên hệ</a>
+    </nav>
+    <section id="gioithieu">
+        <h2>Giới thiệu</h2>
+        <p>Doanh nghiệp Rèn cơ chuyên cung cấp các giải pháp tối ưu cho khách hàng.</p>
+    </section>
+    <section id="dichvu">
+        <h2>Dịch vụ</h2>
+        <p>Chúng tôi cung cấp các dịch vụ tư vấn, thiết kế và phát triển sản phẩm.</p>
+    </section>
+    <section id="lienhe">
+        <h2>Liên hệ</h2>
+        <p>Email: lethitrang202@gmail.com | Hotline: 0347757989</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Doanh Nghiệp Rèn cơ. All rights reserved.</p>
+    </footer>
+</body>
+</html>
