@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head>
+<!-- <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doanh Nghiệp Rèn cơ</title>
@@ -37,7 +37,7 @@
             bottom: 0;
         }
     </style>
-</head>
+</head> -->
 <body>
     <header>
         <h1>Chào mừng đến với Doanh Nghiệp Rèn cơ</h1>
